@@ -1,13 +1,7 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+Programa que calcula si un numero es negativo, positivo o cero y si es divisible entre dos
+*/
 import java.util.Scanner;
-/**
- *
- * @author diegomorenoacevedo
- */
 public class Numero {
     public static void main (String[] args){
         Scanner lector = new Scanner (System.in);
